@@ -1,6 +1,8 @@
 
 # Bioinformatics Format Specimens
 
+[![Join the chat at https://gitter.im/BioJulia/BioFmtSpecimens](https://badges.gitter.im/BioJulia/BioFmtSpecimens.svg)](https://gitter.im/BioJulia/BioFmtSpecimens?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bioinformatics is rife with formats and parsers for those formats. These parsers
 don't always agree on the definitions of these formats, since many lack any sort
 of formal standard.
